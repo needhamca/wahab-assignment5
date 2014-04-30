@@ -1,0 +1,13 @@
+Name: Christopher Needham
+Class: CS779 spring 2014
+Assignment 5
+UIN 00573845
+
+
+This program is a SUMChatServer that accepts SUMChatClients and sends them to a UDP multicast group, sctp, or unicast address.
+
+To run programs used 
+
+./SUMChatServer.py <Port>
+
+./SUMChatClient.py <Server Host> <Server Port> <u/m/s>
